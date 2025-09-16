@@ -1,31 +1,43 @@
-# JMB Printing Services - Website
+JMB Printing Services - Website
 
-This project is a website for **JMB Printing Services - Professional Printing Solutions**.
+This project is a website for JMB Printing Services - Professional Printing Solutions.
 
-## Project Structure
+📂 Project Structure
 
-- `index.html` → Main website file (provided in this project).
-- `styles.css` → Contains all custom CSS styles extracted from the HTML.
-- `scripts.js` → Contains all JavaScript extracted from the HTML.
-- `README.md` → Project documentation.
+index.html → Original version (with inline CSS & JS).
 
-## How to Use
+index_linked.html → Updated version that links to styles.css and scripts.js.
 
-1. Open `index.html` in your browser to view the website.
-2. Make sure `styles.css` and `scripts.js` are in the same folder as `index.html`.
-3. The site is fully static and does not require a server.
+styles.css → Contains all CSS styles extracted from the original HTML.
 
-## Features
+scripts.js → Contains all JavaScript extracted from the original HTML.
 
-- Professional layout for printing services.
-- Responsive design (mobile-friendly).
-- Includes favicon and branding elements.
+README.md → Project documentation (this file).
 
-## Notes
+🚀 How to Use
 
-- You can host this website on any static hosting platform (e.g., GitHub Pages, Netlify, Vercel).
-- To customize styles, edit `styles.css`.
-- To update functionality, edit `scripts.js`.
+Open index.html
 
----
-*Generated automatically from the provided HTML file.*
+This version has inline CSS and JavaScript (exactly as in the original file).
+
+Open index_linked.html
+
+This version uses external CSS (styles.css) and JavaScript (scripts.js) for easier editing and cleaner structure.
+
+Make sure all files are in the same folder for the linked version to work properly.
+
+🌐 Hosting
+
+You can host this website on any static hosting platform (e.g., GitHub Pages, Netlify, Vercel).
+
+Use index.html if you prefer a single-file version.
+
+Use index_linked.html if you prefer modular files that are easier to maintain.
+
+📝 Notes
+
+Edit styles.css to change the design.
+
+Edit scripts.js to modify the functionality.
+
+Favicon and branding elements are already included.

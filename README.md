@@ -1,4 +1,4 @@
-# JMB Printing Services - Professional Printing Solutions
+# JMB Printing Services - HIGH QUALITY PRINTS
 
 This project is a web application for **JMB Printing Services**, providing a modern online presence with service listings, shopping cart, claim stubs, and checkout functionality.
 
